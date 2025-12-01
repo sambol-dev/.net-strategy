@@ -1,0 +1,4 @@
+namespace CaseStrategy.Application.Validators
+{
+
+}

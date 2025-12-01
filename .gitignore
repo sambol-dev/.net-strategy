@@ -1,0 +1,73 @@
+###############################
+# Build / Output
+###############################
+bin/
+obj/
+out/
+publish/
+
+###############################
+# IDE / Editor
+###############################
+.vs/                # Visual Studio
+.idea/              # Rider / JetBrains
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.sln.docstates
+
+###############################
+# SQLite Database Files
+###############################
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+
+###############################
+# Dependency / NuGet
+###############################
+packages/
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+###############################
+# Logs & Cache
+###############################
+*.log
+*.cache
+*.temp
+
+###############################
+# Environment / Secrets
+###############################
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+*.env
+
+###############################
+# OS Files
+###############################
+.DS_Store           # macOS
+Thumbs.db           # Windows
+desktop.ini
+
+###############################
+# Publish / Build Artifacts
+###############################
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+###############################
+# Misc
+###############################
+*.bak
+*.tmp
+*.swp

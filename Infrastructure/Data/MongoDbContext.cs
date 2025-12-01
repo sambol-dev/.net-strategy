@@ -1,0 +1,4 @@
+namespace CaseStrategy.Infrastructure.Data
+{
+
+}
