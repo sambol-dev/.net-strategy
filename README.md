@@ -1,15 +1,36 @@
-Projeto C# — Strategy e SQLite
+# .NET Strategy Design Pattern
 
-Este é um projeto simples em C# (.NET 9) que demonstra boas práticas de arquitetura, separação de responsabilidades e uso de Design Patterns, especialmente o Strategy Pattern.
+Projeto em **C# (.NET 9)** que demonstra a aplicação de boas práticas de arquitetura, separação de responsabilidades e o uso do **Strategy Design Pattern** em uma aplicação simples organizada e didática.
 
-A aplicação foi projetada com foco em simplicidade, clareza e organização, utilizando um cenário prático e fácil de entender.
+---
 
-| Tecnologia                              | Descrição                                        |
-| --------------------------------------- | ------------------------------------------------ |
-| **C# / .NET 9**                         | Plataforma principal da aplicação                |
-| **SQLite**                              | Banco de dados local, leve e fácil de configurar |
-| **Dapper**                              | Micro ORM para acesso rápido a dados             |
-| **Strategy Pattern**                    | Design Pattern aplicado na camada de serviços    |
-| **Minimal APIs / Web API**              | Estrutura de endpoint simples                    |
-| **Dependency Injection nativa do .NET** | Organização clara das dependências               |
-| **Configuration com appsettings.json**  | Configurações externas gerenciáveis              |
+## 📌 Objetivo
+
+Este repositório tem como propósito:
+
+- Demonstrar o **Strategy Pattern** aplicado em um projeto real.
+- Expor um exemplo de arquitetura bem estruturada em **.NET 9**.
+- Fornecer uma base prática para aprendizado ou extensão em projetos reais.
+
+O foco está em simplicidade, clareza e organização de código, facilitando a compreensão dos conceitos envolvidos.
+
+---
+
+## 🏗️ Arquitetura
+
+A estrutura do projeto segue princípios de organização e separação de camadas, com ênfase no padrão **Strategy** e no uso de dependências externas de forma controlada.
+
+
+---
+
+## 📦 Tecnologias Utilizadas
+
+- **.NET 9**
+- **C#**
+- **SQLite** — Banco de dados local e leve
+- **Dapper** — Micro-ORM para acesso rápido a dados
+- **Minimal APIs / Web API**
+- **Dependency Injection** nativa do .NET
+- **Strategy Pattern** — Padrão de projeto para lógica dinâmica
+
+---
